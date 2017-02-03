@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.google</groupId>
+  <artifactId>caplibrary</artifactId>
+  <versioning>
+    <release>r11</release>
+    <versions>
+      <version>r11</version>
+    </versions>
+    <lastUpdated>20170203164332</lastUpdated>
+  </versioning>
+</metadata>
