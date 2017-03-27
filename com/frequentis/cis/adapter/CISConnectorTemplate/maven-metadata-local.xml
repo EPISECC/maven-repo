@@ -3,14 +3,15 @@
   <groupId>com.frequentis.cis.adapter</groupId>
   <artifactId>CISConnectorTemplate</artifactId>
   <versioning>
-    <release>1.7</release>
+    <release>1.13</release>
     <versions>
       <version>1.0</version>
       <version>1.1</version>
       <version>1.10</version>
       <version>1.2</version>
       <version>1.7</version>
+      <version>1.13</version>
     </versions>
-    <lastUpdated>20170203164224</lastUpdated>
+    <lastUpdated>20170327135403</lastUpdated>
   </versioning>
 </metadata>
